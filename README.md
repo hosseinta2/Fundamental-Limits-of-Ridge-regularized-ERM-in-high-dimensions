@@ -1,4 +1,4 @@
-code for reproducing the error curves and the optimal loss and regualization in the paper titled "fundamenral limits of ridge-regularized ERM in high-dimensions"
+Matlab code for reproducing the error curves and the optimal loss and regualization in the paper titled "fundamenral limits of ridge-regularized ERM in high-dimensions"
 
 
 LS_....m:  performance of least-squares for different data models. 
